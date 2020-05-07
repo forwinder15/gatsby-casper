@@ -47,8 +47,6 @@ interface AuthorTemplateProps {
     };
     authorYaml: {
       id: string;
-      website?: string;
-      twitter?: string;
       facebook?: string;
       location?: string;
       profile_image?: {
@@ -102,18 +100,7 @@ const Author: React.FC<AuthorTemplateProps> = props => {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={`${author.id} - ${config.title}`} />
         <meta name="twitter:url" content={config.siteUrl + props.pathContext.slug} />
-        {config.twitter && (
-          <meta
-            name="twitter:site"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
-          />
-        )}
-        {config.twitter && (
-          <meta
-            name="twitter:creator"
-            content={`@${config.twitter.split('https://twitter.com/')[1]}`}
-          />
-        )}
+
       </Helmet>
       <Wrapper css={NoImage}>
         <header className="site-archive-header no-image" css={[SiteHeader, SiteArchiveHeader]}>
@@ -146,28 +133,6 @@ const Author: React.FC<AuthorTemplateProps> = props => {
                       {totalCount === 1 && '1 post'}
                       {totalCount === 0 && 'No posts'}
                     </div>
-                    {author.website && (
-                      <AuthorSocialLink className="author-social-link">
-                        <AuthorSocialLinkAnchor
-                          href={author.website}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Website
-                        </AuthorSocialLinkAnchor>
-                      </AuthorSocialLink>
-                    )}
-                    {author.twitter && (
-                      <AuthorSocialLink className="author-social-link">
-                        <AuthorSocialLinkAnchor
-                          href={`https://twitter.com/${author.twitter}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Twitter
-                        </AuthorSocialLinkAnchor>
-                      </AuthorSocialLink>
-                    )}
                     {author.facebook && (
                       <AuthorSocialLink className="author-social-link">
                         <AuthorSocialLinkAnchor

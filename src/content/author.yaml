@@ -1,15 +1,8 @@
-- id: Ghost
-  avatar: avatars/ghost.png
-  bio: The professional publishing platform
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
-  location: San Francisco
-- id: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
-  location: San Francisco
-  profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Jason Coker
+  avatar: avatars/jas1.png
+  bio: Jason is an amateur/professional songwriter with 25 years of experience in a variety of genres. He resides in Tunnel Hill, GA with his family. He loves creating music and teaching others to do the same.
+  twitter: Jason Coker
+  facebook: jenjascoker
+  website: https://mysongpro.org/
+  location: Tunnel Hill, GA
+  profile_image: img/jas1.jpg

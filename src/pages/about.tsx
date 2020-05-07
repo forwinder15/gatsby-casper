@@ -57,42 +57,34 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+                  Hi there! My name is Jason.
                 </h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                  Let me take this opportunity to welcome you to the site. If you can't tell, I love songwriting. <strong>I hope that I can either pass on that love, learn something from you, or teach you something I have learned.</strong>
+
+                  My journey began when I wrote my first song at 15 years old and then taught myself to play guitar. That was an interesting experience, to say the least. I've gotten frustrated and tried to stop a few times over these nearly 25 years but I've never been able to quit. <strong>It's what God put in me.</strong>
+
+                  I was blessed very early on in my career with opportunities to play and sing in many different places. Churches, coffee houses, nursing homes, live events, band competitions, singer/songwriter competitions, and other venues.
+
+                  Let me tell you that forgetting the words to your song in front a thousand people, hearing someone yell, "Speak up, I can't hear ya!" in the middle of a performance or forgetting to cue your demo cassette (yeah, I said cassette) will help you cut your teeth and keep you humble!
+
+                  <strong>You may see Google Ads on this site. They are not there to take advantage of you but rather they are a way for me to keep this site running for you, so thanks for understanding. </strong>
+
+                  I remember some of the hours (thousands)
                 </p>
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
-                </p>
-                <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
+                  I've spent in my home studio, but they are mostly a blur. Some of that time was spent chasing the perfect vocal take. Yeah, I wish I could have all "those" hours back. Needless to say, I've learned a thing or two about recording.
+
+                  25 years is a long time to hone a craft. I should say it's a long time to go to the school of hard knots but still, I've learned a lot. <strong>I would love the opportunity to share some of what I've learned with you.</strong>
+
+                  You may be wondering if anyone has ever recorded my music. The answer is, yes. This may surprise you, but "that" is not what takes to become a great songwriter. People have been writing great songs since before we figured out how to make a living at it. Many of which never made it to the radio.
+
+                  “The proof is in the pudding." Let me show you. I can help you fix, find, and fall in love with the art of songwriting. God gave you a gift. <strong>Let's work together to make your song the best it can be.**Maybe you can teach me a thing or two as well.</strong>
+                  <br />
+                  <br />For even more content Check out my <a href="https://www.youtube.com/channel/UCpHN583XVu3K28kYJQJ46RA?view_as=subscriber">YouTube Channel</a>
+                  <br />
+                  Keep writing,
+                  Jason
                 </p>
               </div>
             </PostFullContent>
