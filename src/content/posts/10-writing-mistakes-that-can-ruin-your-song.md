@@ -2,7 +2,7 @@
 layout: post
 title: '10 Writing Mistakes That Can Ruin Your Song'
 author: [Jason Coker]
-tags: ['Getting Started']
+tags: ['Songwriting']
 image: ../img/img_a87b8a4d6f55-1.jpeg
 date: '2020-03-26T23:40:13.023Z'
 draft: false

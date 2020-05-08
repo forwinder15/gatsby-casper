@@ -2,7 +2,7 @@
 layout: post
 title: '5 Songwriting Exercises That Will Make You Awesome'
 author: [Jason Coker]
-tags: ['Getting Started']
+tags: ['Songwriting']
 image: ../img/img_ff9ed53bb1e6-1.jpeg
 date: '2020-04-03T20:17:37.674Z'
 draft: false
@@ -37,7 +37,7 @@ You can feel it if you try to play it or sing it. It becomes extremely obvious a
 
 This can be maddening if you don't know how to count syllables. Refer to my graphic at this point to get an idea of what I'm describing.
 
-![counting syllables](/images/Countingsyllables.jpg)
+![counting syllables](../img/Countingsyllables.jpg)
 
 You see, it's not terribly difficult to do. What we have to get you in the habit of is counting syllables alongside words. **Most people with syllable issues are only counting words.**
 
@@ -100,7 +100,7 @@ This isn't very complicated. You just need to spend time practicing. Once you've
 
 Not only will you find different words that rhyme, but you can help the words rhyme by messing with the ending vowel sound. This is a very common practiced among vocalist to help them sing certain parts when they find a not difficult to hit or hold.
 
-![Ending rhymes](/images/Endingrhymevariation.jpg)
+![Ending rhymes](../img/Endingrhymevariation.jpg)
 
 Do you feel like we just broke down the English language a little? It definitely would help you to re-visit the basics of vocabulary. We touched a little on an expanded version of vowel sounds as well.
 

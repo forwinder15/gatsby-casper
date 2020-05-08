@@ -2,7 +2,7 @@
 layout: post
 title: '10 Tricks To Write Better Lyrics Today'
 author: [Jason Coker]
-tags: ['Getting Started']
+tags: ['Songwriting']
 image: ../img/img_31b78baa2253-1.jpeg
 date: '2020-03-29T20:08:14.698Z'
 draft: false

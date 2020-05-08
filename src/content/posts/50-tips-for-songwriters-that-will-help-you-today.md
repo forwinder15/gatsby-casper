@@ -2,7 +2,7 @@
 layout: post
 title: '50 Tips For Songwriters That Will Help You Today'
 author: [Jason Coker]
-tags: ['Getting Started']
+tags: ['Songwriting']
 image: ../img/img_40ab189c69a4-1.jpeg
 date: '2020-03-25T23:32:10.995Z'
 draft: false
