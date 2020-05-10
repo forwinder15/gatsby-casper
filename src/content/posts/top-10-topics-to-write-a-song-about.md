@@ -108,5 +108,5 @@ Also, keep your ears open when you are out in public, at church, work, or around
 
 If you go prospecting you may find songwriting gold. Alright. So now I'm sitting here anticipating your next great song. Well, what are you waiting for? **Go write it! **
 
-**To download your FREE copy of "Songwriting Cheat Sheet. 126 Inspiring Ideas and Prompts" ** [**click here.**](https://mysongpro.com/posts/songwriting-cheat-sheet-126-inspiring-ideas-and-prompts/)
+### To download your FREE copy of "Songwriting Cheat Sheet. 126 Inspiring Ideas and Prompts"  [**Click Here.**](https://mysongpro.com/posts/songwriting-cheat-sheet-126-inspiring-ideas-and-prompts/)
 
