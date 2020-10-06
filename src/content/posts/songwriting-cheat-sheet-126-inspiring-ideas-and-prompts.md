@@ -11,45 +11,25 @@ excerpt: Have you ever sat down to write and had no idea where to begin? There
   out. We've all been there, right?
 ---
 
-
-
 **As writers, we all go through dry spells from time to time.**You know what? That's ok. We can't expect to create a number one hit every time we sit down and write. If we were able to do that we'd be famous.
-
-
 
 There's no shame in hitting "the wall" or going blank. We just need to figure out how to blow the wall to pieces and turn on your light bulb. **That's where having my cheat sheet comes in**.
 
-
-
 Yep, that's what I said. Cheat sheet. Idea book. Prompts. Call'em what you will. This is a secret weapon. All great songwriters use one. Don't let anybody fool you. **Having a list of prompts doesn’t make you less of a writer.**
-
-
 
 **This is actually one of the smartest things you can do.** Over time you are going to come up with a lot more ideas than you write. What do you do with all those ideas? Write them down and save them. Tada! Cheat sheet.
 
-
-
 **What I've done here is give you a jump start.** I have taken time to categorize the list so it's easier to use. Next time you go bone dry whip this booger out and let it inspire you to write something new.
-
-
 
 Go a step further and add your ideas to it as well. Why stop at 126? Keep going! And please feel free to change the ones I have provided. That's the whole idea. I want you to get in the habit of doing this yourself. Make it your own.
 
-
-
 You will also notice that I have provided you with some "rough" titles or hooks to the right of each line. Feel free to change those as well. **Oh, if you want to know a BIG SECRET about this cheat sheet scroll to the bottom.**
 
-
-
 **This is absolutely 100% FREE for you to download.** Put it on your device/s and use it as you please. Change it again and again and make it your own. Are you ready to write your next awesome song? Then without further a due here we go.
-
-
 
 Oh yeah, **make sure you have fun!**
 
 \- Jason
-
-
 
 PS. If you are still experiencing “songwriter’s block” after using this list, check out my article **[“Why is songwriting so hard? How to get past songwriter’s block”](https://mysongpro.com/posts/why-is-songwriting-so-hard-how-to-get-past-songwriters-block/)**
 
@@ -73,8 +53,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 7. Write a song about your passion. "Can't get enough"
 
-
-
 ## **Songs about Pain**
 
 8. Write a song about emotional abuse. "Screaming Silence"
@@ -90,8 +68,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 13. Write a song about losing hope. "Another fail"
 
 14. Write a song about suicide. "Revenge and relief"
-
-
 
 ## **Songs about Love**
 
@@ -109,8 +85,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 21. Write a song about sacrificial love. "No greater love"
 
-
-
 ## **Songs about Friendship**
 
 22. Write a song about best friends. "My BFF"
@@ -126,8 +100,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 27. Write a song about dying friends. "I'm gonna miss you"
 
 28. Write a song about devoted friends. "I'll be here for you"
-
-
 
 ## **Songs about Relationship**
 
@@ -145,8 +117,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 35. Write a song about indifference. "Don't care"
 
-
-
 ## **Songs about Family Role-Models**
 
 36. Write a song about a father. "Dad loved me"
@@ -162,10 +132,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 41. Write a song about an aunt. "Aunt of mine"
 
 42. Write a song about an absent parent. "Was it me?"
-
-
-
-
 
 ## **Songs about Faith**
 
@@ -183,8 +149,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 49. Write a song about faith. "I trust in Him"
 
-
-
 ## **Songs about Life**
 
 50. Write a song about success. "On top of the world'"
@@ -200,8 +164,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 55. Write a song about a new life. "My little girl"
 
 56. Write a song about old life. "The Ballad of Ol' Jones"
-
-
 
 ## **Songs about Death**
 
@@ -219,8 +181,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 63. Write a song about age. "So much life to live"
 
-
-
 ## **Songs about Humor**
 
 64. Write a song about a joke. "Knock knock. Who's there?"
@@ -236,8 +196,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 69. Write a song about laughter. "I love her smile"
 
 70. Write a song about toilet paper. "My tush's BFF"
-
-
 
 ## **Songs about Intimacy**
 
@@ -255,8 +213,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 77. Write a song about listening. "The mystery of a woman"
 
-
-
 ## **Songs about The Road**
 
 78. Write a song about your hometown. "Where I grew up"
@@ -272,8 +228,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 83. Write a song about short stays. "No grass under my feet"
 
 84. Write a song about new people. "Strangers for friends"
-
-
 
 ## **Songs about Folklore**
 
@@ -291,8 +245,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 91. Write a song about a town secret. "Built on a gold mine"
 
-
-
 ## **Songs about Objects**
 
 92. Write a song about an heirloom. "Grandpa's old watch"
@@ -308,8 +260,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 97. Write a song about a mirror. "Reflection"
 
 98. Write a song about a flag. "Wavin' free"
-
-
 
 ## **Songs about Animals**
 
@@ -327,8 +277,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 105. Write a song about a bird. "Singing in the trees"
 
-
-
 ## **Songs about Emotions**
 
 106. Write a song about fear. "Hiding in the dark"
@@ -344,8 +292,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 111. Write a song about stress. "I can't take it anymore"
 
 112. Write a song about relaxation. "Sitting in the sunshine"
-
-
 
 ## **Songs about Character**
 
@@ -363,8 +309,6 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 119. Write a song about duty. "Fight till the end"
 
-
-
 ## **Songs about Weird Stuff**
 
 120. Write a song about an abduction. "Aliens stole my brain"
@@ -381,22 +325,16 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 126. Write a song about aliens. "Mars isn't so far"
 
-
-
 ## **The Big Secret**
 
 Ok. You made it through. **I got a big secret for you.** This cheat sheet will literally transform into an **UNLIMITED** supply of inspiration for you if you play around with it.
 
-
-
 Try interchanging and combining each line item using these three principals:
 
-* **Subject** - change the theme. Ask these questions: who, what, when, where, why, and how?
-* **Perspective** - change who's speaking. Write in 1st person, 2nd person, or 3rd person.
-* **Metaphors** - change the title or hook. Use quotes, puns, and figures of speech to create new titles and hooks.
+- **Subject** - change the theme. Ask these questions: who, what, when, where, why, and how?
+- **Perspective** - change who's speaking. Write in 1st person, 2nd person, or 3rd person.
+- **Metaphors** - change the title or hook. Use quotes, puns, and figures of speech to create new titles and hooks.
 
-
-
-**See how many different variations you can come up with.** I would love to hear your feedback and any new ideas you get using this list. I'm sitting here waiting to hear your new song. Now go write it!
+**How many different variations you can come up with?** I would love to hear your feedback and any new ideas you get using this list. I'm sitting here waiting to hear your new song. Now go write it!
 
 Thank you for reading!
