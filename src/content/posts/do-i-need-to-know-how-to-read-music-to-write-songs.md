@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Do I Need To Know How To Read Music To Write Songs?'
+title: 'How To Write A Song WITHOUT Knowing How To Read Music'
 author: [Jason Coker]
 tags: ['Getting Started']
 image: ../img/IMG_648908070B24-1.jpeg
@@ -11,7 +11,7 @@ excerpt: Over the years of writing songs with people, I couldn't tell you how ma
   they can't read music. Yet they are great writers.
 ---
 
-*Do I need to know how to read music to write songs?* **No. You don't need to know how to read music to write songs. All you need is a couple basic skills. #1 Song structure, pattern, or format. This is simply how the song is put together. #2 Melody. This is how the song goes or is sung. You can do this by simply humming to yourself. Reading music isn’t necessary for either one of these.**
+_Do I need to know how to read music to write songs?_ **No. You don't need to know how to read music to write songs. All you need is a couple basic skills. #1 Song structure, pattern, or format. This is simply how the song is put together. #2 Melody. This is how the song goes or is sung. You can do this by simply humming to yourself. Reading music isn’t necessary for either one of these.**
 
 ## **The basics of songwriting**
 
@@ -66,7 +66,8 @@ I would say that there are really **three schools of thought** on melody. Those 
 1. Those who say it's crucial are gonna be people who either make a living writing or want to make a living writing. They won't be artists but professionals.
 2. Then you will have the ones who argue that everything is an expression of art. They could care less about how catchy the melody is because they achieved zen while writing.
 
-   *Being in either one of these extremes makes you nearly impossible to work with because no matter which one you are nothing is ever good enough*
+   _Being in either one of these extremes makes you nearly impossible to work with because no matter which one you are nothing is ever good enough_
+
 3. I prefer the middle ground. This is where creativity thrives I believe. Somewhere between being an artist and a professional. We all want to pay the bills but we want to love what we do as well, right?
 
 **So what I do** to achieve this balance is to play with new melodies constantly in my head. I may even take familiar lyrics and try to make up a new tune using those lyrics. Once I've got something I like, I replace the lyrics.
