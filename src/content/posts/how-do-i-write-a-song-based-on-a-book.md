@@ -10,7 +10,7 @@ excerpt: I have read a lot of books and I have written a lot of songs. I suppose
   could say I have written a lot of songs about books in 25 years.
 ---
 
-*How do I write a song about a book?***You need to read the book, summarize it in your own words, and then write it. #1 Read the book. If you don't know the material you will insult the author. #2 Summarize the book from your perspective. The author said what they had to say don't try to speak for them. #3 Go write it. Songs don't write themselves.**
+How do I write a song about a book? **You need to read the book, summarize it in your own words, and then write it. #1 Read the book. If you don't know the material you will insult the author. #2 Summarize the book from your perspective. The author said what they had to say don't try to speak for them. #3 Go write it. Songs don't write themselves.**
 
 ## **Read the book**
 
