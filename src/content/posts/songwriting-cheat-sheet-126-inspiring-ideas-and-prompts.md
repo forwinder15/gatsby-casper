@@ -35,7 +35,7 @@ PS. If you are still experiencing “songwriter’s block” after using this li
 
 ## **Song Pro’s Cheat Sheet. 126 Inspiring Ideas And Prompts.**
 
-#### <a href="/img/prompts.pdf" download="/images/promps.pdf">(free downloadable PDF click here)</a>
+#### <a href="/images/prompts.pdf" download="/images/prompts.pdf">(free downloadable PDF click here)</a>
 
 ## **Songs about You**
 
