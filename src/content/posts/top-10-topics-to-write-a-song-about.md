@@ -17,7 +17,7 @@ Every writer gets stuck now and then. Do not ever feel ashamed for having a "che
 
 What I've done here is take the **Top 10** from my list of **126**, and give you a little more detail. You must get in the habit of doing this for yourself. So make sure you are writing down and recording all of the ideas you have as they come.
 
-It won't take long before your list is longer than mine. Next time you feel uninspired, simply pull out your "cheat sheet". For now, use mine and feel free to add to it or change it. There's a link at the bottom of this post to access your **FREE** copy. Enjoy the read.
+It won't take long before your list is longer than mine. Next time you feel uninspired, simply pull out your ["cheat sheet".](https://mysongpro.com/posts/songwriting-cheat-sheet-126-inspiring-ideas-and-prompts/) For now, use mine and feel free to add to it or change it. There's a link at the bottom of this post to access your **FREE** copy. Enjoy the read.
 
 **Top 10 Topics to Write a Song About**
 
@@ -37,7 +37,7 @@ Tell a great story about a time when you were growing up. Maybe you caught a rea
 
 One more to consider would be to write a song about your politics. Many artists have done this. Although I don't agree with his premise, John Lennon wrote a wildly popular song called "Imagine." See if you can find any other examples to listen to for inspiration.
 
-## 3. Write about a relationship.
+## 3. Write about a relationship
 
 This can be a fun topic because there are so many possibilities. You can write a song about a son and a father like "Cats in the cradle", or a son to a mother like "Bohemian Rhapsody".
 
